@@ -1,7 +1,7 @@
 <template>
   <div id="app">
   <router-view/>
-  <h1>黑马头条</h1>
+  <h1>黑马qqqqqq头条qqqqqqqqqq</h1>
   </div>
 </template>
 
